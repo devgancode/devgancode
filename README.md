@@ -1,8 +1,8 @@
 ```js
-const data = [{
+const data = {
   name:"@devgancode",
   gmail:"devgancode@gmail.com"
-}]
+}
 
 ```
 <!---
