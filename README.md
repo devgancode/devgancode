@@ -1,7 +1,8 @@
 ```js
 const data = {
   name:"@devgancode",
-  gmail:"devgancode@gmail.com"
+  gmail:"devgancode@gmail.com",
+  stack:"pyjs",
 }
 
 ```
